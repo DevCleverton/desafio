@@ -76,10 +76,6 @@ Seu projeto será avaliado de acordo com os seguintes critérios.
 5. Altamente responsivo
 
 
-[![Deploy](https://vercel.com/button)](https://desafiofrontpoke.vercel.app/)
-<img src="./src/img/prtsc/inicial.png">
-<img src="./src/img/prtsc/search.png">
-<img src="./src/img/prtsc/card.png">
 
 ## Project setup
 ```
